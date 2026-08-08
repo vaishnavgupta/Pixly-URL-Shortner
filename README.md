@@ -54,6 +54,8 @@ It ensures a **secure experience** with JWT authentication, a clean UI built in 
 
 > 🔗 Visit [Pixly Live](https://pixly.space) to explore the working demo.
 
+<img src="https://res.cloudinary.com/db7cahrki/image/upload/v1786183983/ChatGPT_Image_Aug_5_2026_12_28_59_PM_ekzwgz.png" alt="Pixly Cover" width="700"/>
+
 <img src="https://res.cloudinary.com/db7cahrki/image/upload/v1759601898/Screenshot_2025-10-04_234656_nwqq9e.png" alt="Pixly Landing" width="700"/>
 
 <img src="https://res.cloudinary.com/db7cahrki/image/upload/v1759601898/Screenshot_2025-10-04_234552_vo6blq.png" alt="Pixly Dashboard" width="700"/>
